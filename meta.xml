@@ -1,0 +1,7 @@
+<meta>
+    <info author="GYPER" name="Kupon Sistemi" description="Kupon Sistemi" type="script" version="1.5" />
+    <script src="s_kupon.lua" type="server" />
+    <script src="c_kupon.lua" type="client" cache="false" />
+	<!--<file src="sound.mp3" />-->
+    <!--<file src="banner.jpg" />-->
+	</meta>
